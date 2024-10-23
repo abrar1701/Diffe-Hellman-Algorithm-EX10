@@ -1,4 +1,4 @@
-# Ex-10-Diffee-Hellman-Algorithm
+# Ex-10 | Diffee Hellman Algorithm
 ## AIM:
 To implement the Diffee Hellman Algoirthm using C or Python.
 
